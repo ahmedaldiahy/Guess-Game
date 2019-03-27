@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551854372 source:/home/ahmed/Documents/codeblocks/test1/main.cpp
+	<iostream>
+	"tes.h"
+
+1551883655 source:/home/ahmed/Documents/codeblocks/test1/tes.cpp
+	"tes.h"
+
+1551884167 /home/ahmed/Documents/codeblocks/test1/tes.h
+	<iostream>
+	<string>
+
+1551854372 source:/home/ahmed/Documents/codeblocks/Game Guess/main.cpp
+	<iostream>
+	"tes.h"
+
+1551884167 /home/ahmed/Documents/codeblocks/Game Guess/tes.h
+	<iostream>
+	<string>
+
+1551884000 source:/home/ahmed/Documents/codeblocks/Game Guess/tes.cpp
+	"tes.h"
+
